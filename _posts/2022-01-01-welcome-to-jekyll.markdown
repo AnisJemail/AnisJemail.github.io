@@ -1,22 +1,22 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "Welcome to Jekyll!"
+title: "Workshop GitHub!"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Jekyll
+author: Anis
 # multiple category is not supported
-category: jekyll
+category: GitHub
 # multiple tag entries are possible
-tags: [jekyll, example post, sample, test]
+tags: [GitHub, example post, sample, test]
 # thumbnail image for post
 img: ":post_pic3.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-01-01 10:04:30 +0900
+date: 2024-08-05 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
@@ -40,9 +40,7 @@ date: 2022-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!-- outline-end --> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+GitHub (/ɡɪthʌb/, entreprise GitHub, Inc.) est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. Ce site est développé en Ruby on Rails et Erlang par Chris Wanstrath, PJ Hyett et Tom Preston-Werner. GitHub propose des comptes professionnels payants, ainsi que des comptes gratuits pour les projets de logiciels libres.
 
 Jekyll also offers powerful support for code snippets:
 
